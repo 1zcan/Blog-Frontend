@@ -1,0 +1,16 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+body {
+  background-color: black;
+  background-image: url(/assets/img/background-tile.png);
+  color: aliceblue;
+}
+span {
+  font-family: "Courier New", Courier, monospace;
+}
+nav{
+    backdrop-filter: blur(10px);
+}
